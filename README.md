@@ -12,8 +12,7 @@ From here: https://careers.rtcamp.com/wordpress-engineer/assignment/
 
 You can find the link to demo [here](https://sharmakajal2101.000webhostapp.com) 
 
-
-##Description
+## Description
 
 ###  Admin-Side:
 
@@ -32,16 +31,16 @@ Rtcamp Slider Plugin Creates an admin-side Menu **Rtcamp_Slideshow Settings**. T
     When you add shortcode [rtcamp-slideshow] to any post/page, it will be replaced by a
     slideshow of images uploaded from admin-side.
 
-###Organized Code:
+### Organized Code:
      The code was written with `wpbb` boilerplate. As a result, it is highly organized and structured.
 
-###Coding Standards:
+### Coding Standards:
      The code was checked with PHPCS by installing composer in the project directory `Wordpress-Extra` and `Wordpress-Docs` ruleset and follows Wordpress Coding Standards as much as possible.
 
-###Unit Test:
+### Unit Test:
      The code was also unit tested.
 
-###Dependencies:
+### Dependencies:
      All the dependencies are managed through npm and stored in `node_modules` directory(which is ofcourse gitignored).
 
 ## Libraries Used
