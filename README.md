@@ -1,4 +1,4 @@
-# rtCamp Slideshow Assignment
+# Rtcamp Slideshow Assignment
 [![Build Status](https://travis-ci.org/kajalsharma2101/rtcamp-slideshow-plugin-assignment.svg?branch=master)](https://travis-ci.org/kajalsharma2101/rtcamp-slideshow-plugin-assignment)
 
 * Contributors: (Kajal Sharma)
