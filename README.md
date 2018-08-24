@@ -10,7 +10,7 @@ From here: https://careers.rtcamp.com/wordpress-engineer/assignment/
 
 ## Demo
 
-You can find the link to demo [here](http://rtcamp-slideshow-plugin-assignment.000webhostapp.com/) 
+You can find the link to demo [here](https://sharmakajal2101.000webhostapp.com) 
 
 
 ##Description
