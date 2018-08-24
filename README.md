@@ -1,0 +1,1 @@
+# rtcamp-slideshow-plugin-assignment
