@@ -21,10 +21,10 @@ You can find the link to demo [here](https://sharmakajal2101.000webhostapp.com)
 Rtcamp Slider Plugin Creates an admin-side Menu **Rtcamp_Slideshow Settings**. This page provides an interface to create slideshows and add/remove images to the slideshow.
     
 1. It uses "LightSlider" library for displaying sliders. 
-2. It can add/remove images for slideshow.
+2. It can add/remove mutiple images  from the slider by just selecting/deselecting it from the slider.
 3. It can change the order of images by dragging them.
 4. It can  move slider images by pressing the arrow keys.
-5. It can add shortcode [rtcamp-slideshow] to any post/page. 
+5. It can add shortcode by just clicking on "Slider Shortcode" Button present in visual editor toolbar it will add [rtcamp-slideshow] to any post/page. 
 6. It shows you the live slider preview.
 
 
